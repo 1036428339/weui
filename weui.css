@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* 禁止用户选中 */
+    -webkit-user-select: none;
+    user-select: none;
+}
+a {
+    text-decoration-line: none;
+}
